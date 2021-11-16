@@ -266,7 +266,7 @@ class YuFaceDetectNet(nn.Module):
             result_str += '\n'
 
             with_relu = 'false, '
-            if(DPConvs[idx].withBNRelu):
+            if (DPConvs[idx].withBNRelu):
                 with_relu = 'true, '
 
             result_str += ('    {' +

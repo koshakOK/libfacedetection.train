@@ -1,5 +1,4 @@
 # Training for libfacedetection in PyTorch
-hello
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
 It is the training program for [libfacedetection](https://github.com/ShiqiYu/libfacedetection). The source code is based on [FaceBoxes.PyTorch](https://github.com/sfzhang15/FaceBoxes.PyTorch) and [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch).
